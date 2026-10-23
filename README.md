@@ -15,7 +15,7 @@
 
 ## About
 
-I'm a Java backend engineer at **Cognizant**, working with **American Airlines** on the *Mercury Rewrite*: moving a legacy Java RMI, in-memory system to **Java microservices on Couchbase**. I like performance problems, clean service boundaries, and putting AI agents to work on real engineering chores.
+I'm a Java backend engineer at **Cognizant**, moving a legacy Java RMI, in-memory system to **Java microservices on Couchbase**. I like performance problems, clean service boundaries, and putting AI agents to work on real engineering chores.
 
 - **Faster fare loads.** Cut a 250K-fare load from a 42M-record Couchbase dataset from about 8 minutes to under a minute, roughly 8x, using key-value lookups and in-memory deduplication.
 - **Agentic AI mesh.** Built custom AI agents that turn about 2 days of analyst story writing into about 1 hour, and 1 day of developer estimation into about 30 minutes (approximate).
@@ -29,7 +29,7 @@ I'm a Java backend engineer at **Cognizant**, working with **American Airlines**
 
 | | |
 |---|---|
-| Working on | Mercury Rewrite at Cognizant for American Airlines |
+| Working on | A legacy-to-microservices migration at Cognizant |
 | Building | Inventra, an offline-first pharmacy platform |
 | Exploring | Agentic AI workflows for software delivery |
 | Based in | Ahmedabad, Gujarat |
@@ -100,7 +100,7 @@ I'm a Java backend engineer at **Cognizant**, working with **American Airlines**
 
 | When | Role | Where |
 |---|---|---|
-| Nov 2025 - now | Programmer Analyst Trainee | **Cognizant**, on American Airlines' Mercury Rewrite |
+| Nov 2025 - now | Programmer Analyst Trainee | **Cognizant** |
 | Feb - May 2025 | Software Developer Intern | **BISAG-N**, Gandhinagar. Built a quantum-resistant VPN: Kyber and Dilithium integrated into StrongSwan with liboqs |
 
 ## Education
